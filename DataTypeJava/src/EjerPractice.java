@@ -1,4 +1,4 @@
-public class PresentFamily {
+public class EjerPractice {
     public static void main(String[] args) {
 
         // ejercicio 1
@@ -29,6 +29,26 @@ public class PresentFamily {
         System.out.println(dL);
 
         int b = 100;
+        b += 5000.66;
 
+        float bF= (float) b;
+        System.out.println(bF);
+
+        double n = 298.234 / 35;
+        long nL =(long) n;
+        System.out.println(nL);
+
+        // ejercicio 3
+        //Explica cómo distribuirías y crearías un ambiente de producción para un programa compilado con la versión 9 de Java.
+        //Incluye al menos dos Sistemas Operativos.
+
+        /*
+        1. instalar el JDK v9 y java asi.
+        2. revisar que este en la version 9 del jdk, luego se procede
+        a sacar el archivo .jar para realizar la ejecucion del programa.
+        3. este paso se realizaria desde windows cabe resaltar que tabien funcionaria
+        para mac en dado caso que sea para linux el procediemto es el mismo lo que cambia
+        es la instalacion del paquete JDK.
+         */
     }
 }
