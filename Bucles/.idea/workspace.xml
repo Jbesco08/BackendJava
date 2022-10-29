@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cd66380-0592-4806-9178-d54b530984c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bucles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bucles/DoWhlie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bucles/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoWhlie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoWhlie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
